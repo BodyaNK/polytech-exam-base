@@ -1,0 +1,18 @@
+// Colors
+$body-color: #ffffff;
+$body-bg: #efefef6b;
+
+// Font sizes
+$font-size-hv: 24px;
+$font-size-lg: 20px;
+$font-size-md: 18px;
+$font-size-sm: 16px;
+$font-size-xs: 14px;
+
+// variables
+$box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.3),
+	-9px -9px 16px rgba(255, 255, 255, 0.3),
+	inset -16px -16px 80px rgba(224, 229, 236, 0.3);
+
+@import "~antd/dist/antd.css";
+@import "../Login/styles.scss";
